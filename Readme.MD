@@ -22,6 +22,8 @@ This addon was developed as test task for Rembox company.
 * 	Для UI использовать библиотеку MahApps
 * 	Приложение должно работать для версий Revit 2023 и 2024
 
+![Demo](https://github.com/YuraDunaev/YrzRevitAddin/blob/master/AddInManager/Resources/Demo.png?raw=true)
+
 * [Revit API Developers Guide](https://help.autodesk.com/view/RVT/2024/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html)
 
 Be free to use!
