@@ -3,9 +3,9 @@
 
 AddIn for Revit versions R19 || R20 || R21 || R22 || R23 || R24.
 
-## This Addon finds walls from base and linked models in range two selected levels and calculates their area.
+## This Addin finds walls from base and linked models in range two selected levels and calculates their area.
 
-This addon was developed as test task for Rembox company.
+This addin was developed as test task for Rembox company.
 
 ### Task specification:
 Написать приложение, которое имеет следующие функции:
