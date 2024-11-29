@@ -1,0 +1,10 @@
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>YRZAddinManager</Name>
+        <Assembly>C:\work\Rabota\Rembox\RemboxWallSquare\RevitAddInManager-dev\AddInManager\bin\AddIn 2022 Debug R22\RevitAddinManager\RevitAddinManager.dll</Assembly>
+        <FullClassName>RevitAddinManager.App</FullClassName>
+        <AddInId>356d3563-081f-4278-81a4-7ddcf7851799</AddInId>
+        <VendorId>ADSK</VendorId>
+        <VendorDescription>Autodesk, https://www.autodesk.com/</VendorDescription>
+    </AddIn>
+</RevitAddIns>
